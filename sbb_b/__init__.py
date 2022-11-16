@@ -19,7 +19,7 @@ __copyright__ = f" حقوق سورس جمثون (C) 2020 - 2022  {__author__}"
 
 sbb_b.version = __version__
 sbb_b.tgbot.version = __version__
-LOGS = logging.getLogger("سورس جمثون")
+LOGS = logging.getLogger("سورس ريبثون")
 bot = sbb_b
 
 StartTime = time.time()
