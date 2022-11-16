@@ -17,7 +17,7 @@ from .utils import (
     verifyLoggerGroup,
 )
 
-LOGS = logging.getLogger("سورس جمثون")
+LOGS = logging.getLogger("سورس ريبثون")
 
 cmdhr = Config.COMMAND_HAND_LER
 
@@ -55,7 +55,7 @@ async def startup_process():
     print("تم انتهاء عملية التنصيب بنجاح ")
     print(
         f"لمعرفة اوامر السورس ارسل {cmdhr}الاوامر\
-        \nمجموعة قناة السورس  https://t.me/jmthon_support"
+        \nمجموعة قناة السورس  https://t.me/aY_M_I"
     )
     print("============================================================")
     await verifyLoggerGroup()
